@@ -1,9 +1,9 @@
 📂 Project Structure
 accuknox-django-assignment
 │
-├── accuknox_project/         # Django project settings
-├── signals_app/              # Django signals experiments (Q1, Q2, Q3)
-├── rectangles/               # Custom Rectangle class implementation
+├── accuknox_project/         
+├── signals_app/              
+├── rectangles/               
 ├── manage.py
 └── requirements.txt
 
